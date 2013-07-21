@@ -1,0 +1,6 @@
+Name:Ivan Ingers
+Race:Caucasian
+Gender:Male
+Age:19
+GPA:2.45
+ID:9

@@ -1,0 +1,6 @@
+Name:Andy Atkins
+Race:Caucasian
+Gender:Male
+Age:22
+GPA:3.01
+ID:1

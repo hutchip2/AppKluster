@@ -1,0 +1,6 @@
+Name:Brian Bates
+Race:African
+Gender:Male
+Age:24
+GPA:2.89
+ID:2

@@ -1,0 +1,6 @@
+Name:Lindsey Luck
+Race:Caucasian
+Gender:Female
+Age:22
+GPA:2.95
+ID:12

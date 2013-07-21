@@ -1,0 +1,6 @@
+Name:Frank Franklin
+Race:Caucasian
+Gender:Male
+Age:22
+GPA:2.01
+ID:6

@@ -1,0 +1,6 @@
+Name:David Dawkins
+Race:Caucasian
+Gender:Male
+Age:22
+GPA:3.52
+ID:4

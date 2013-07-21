@@ -1,0 +1,6 @@
+Name:Erica Enrich
+Race:Asian
+Gender:Female
+Age:23
+GPA:2.88
+ID:5

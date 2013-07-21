@@ -1,0 +1,6 @@
+Name:Hillary Hillard
+Race:African
+Gender:Female
+Age:22
+GPA:3.01
+ID:8

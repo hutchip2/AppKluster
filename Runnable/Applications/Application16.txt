@@ -1,0 +1,6 @@
+Name:Paul Payne
+Race:Caucasian
+Gender:Male
+Age:23
+GPA:2.64
+ID:16

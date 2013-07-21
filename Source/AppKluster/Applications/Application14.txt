@@ -1,0 +1,6 @@
+Name:Nick Nickles
+Race:Afican
+Gender:Male
+Age:26
+GPA:1.88
+ID:14

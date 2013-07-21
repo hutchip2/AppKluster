@@ -1,0 +1,6 @@
+Name:Gary Gains
+Race:Caucasian
+Gender:Male
+Age:25
+GPA:3.29
+ID:7

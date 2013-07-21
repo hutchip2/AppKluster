@@ -1,0 +1,6 @@
+Name:Michael Manor
+Race:Caucasian
+Gender:Male
+Age:19
+GPA:2.02
+ID:13

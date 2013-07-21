@@ -1,0 +1,6 @@
+Name:Karen Kline
+Race:Caucasian
+Gender:Female
+Age:24
+GPA:3.12
+ID:11

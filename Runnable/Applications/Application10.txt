@@ -1,0 +1,6 @@
+Name:Jack Johnson
+Race:Caucasian
+Gender:Male
+Age:22
+GPA:3.67
+ID:10
